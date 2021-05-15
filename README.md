@@ -1,2 +1,2 @@
-scrollTrigger text scatter
-        
+scrollTrigger text scatter animation
+    
